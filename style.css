@@ -1,2 +1,13 @@
 body {
-  
+  background-color: navyblue;
+}
+
+h1 {
+  color: cream;
+  text-align: center;
+}
+
+p { 
+font-family: timesnewromans;
+  font-size: 24px;
+}
