@@ -1,12 +1,19 @@
 body {
-  background-image: white;
+  background-color: lightred;
 }
 
 h1 {
-  font-family: Ribeye;
-  color: black;
+  font-family: ribeye;
+  color: cream;
   font-size: 40px;
   text-align: center;
+}
+
+h2 {
+  color: cream;
+  text-align: center;
+  font-size: 16px;
+  font-family: ribeye
 }
 
 p { 
@@ -15,3 +22,11 @@ font-family: Pompiere;
   font-size: 24px;
   text-align: 20px;
 }
+
+img {
+  display: rectangle
+  width: 500;
+  img-align: center;
+}
+  
+  
