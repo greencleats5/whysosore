@@ -1,32 +1,23 @@
-body {
-  background-color: lightred;
-}
+body {background-color: lightred;}
 
-h1 {
-  font-family: ribeye;
-  color: cream;
-  font-size: 40px;
-  text-align: center;
-}
+h1 {font-family: timesnewromans;
+  color: white;
+  text-align: center;}
 
-h2 {
-  color: cream;
+h2 {color: white;
   text-align: center;
   font-size: 16px;
-  font-family: ribeye
-}
+  margin-top: -10px;
+  font-family: timesnewromans;}
 
-p { 
-font-family: Pompiere;
+p {font-family: Pompiere;
   color: black;
   font-size: 24px;
-  text-align: 20px;
-}
+  text-align: 20px;}
 
 img {
-  display: rectangle
+  display: block;
   width: 500;
-  img-align: center;
-}
+  img-align: center;}
   
   
