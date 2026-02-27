@@ -1,5 +1,16 @@
 body {
   background-image: url("project1img/sore6.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  margin:0;
+  padding:0;
+}
+
+.myelement {
+  margin-top: 50px;
+  margin-left: 100px;
 }
 
 h1 {
