@@ -1,22 +1,25 @@
-body {background-color: grey;}
+body {
+  background-image: url("project1img/sore6.jpeg");
+}
 
-h1 {font-family: timesnewromans;
+h1 {
+  font-family: timesnewromans;
   color: black;
-  text-align: center;}
-
-h2 {color: black;
+  font-weight:400;
+  font-style: normal;
   text-align: center;
-  font-size: 16px;
-  margin-top: -10px;
-  font-family:timesnewromans;}
+}
 
-p {font-family:timesnewromans;
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 4px;
+}
+
+p {
+  font-family:times;
   color: black;
-  font-size: 24px;
-  text-align: 20px;}
-
-img {display: block;
-  width: 500;
-  img-align: center;}
-  
+  font-size: 16px;
+  font-style: normal;
+} 
   
