@@ -1,9 +1,11 @@
 body {
-  background-image: url("project1img/sore6.jpeg");
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+              url("project1img/sore6.jpeg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
   background-size: cover;
-  height: 100vh;
+  background-attachment: fixed;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
 }
@@ -15,23 +17,22 @@ body {
 
 h1 {
   font-family: 'UnifrakturCook', cursive;
-  color: black;
+  color: white;
   text-align: center;
 }
 
 img {
-  max-width: 50%;
-  height: auto;
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+  margin: 20px auto;
   border-radius: 4px;
-  **display: block;**
-  **margin: 20px auto;**
 }
 
 p {
-  font-family: **"Times New Roman", serif;**
-  color: black;
+  font-family: "Times New Roman", serif;
+  color: white;
   font-size: 16px;
-  font-style: normal;
-  **text-align: center;**
+  text-align: center;
 }
-
